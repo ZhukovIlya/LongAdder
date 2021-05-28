@@ -1,0 +1,2 @@
+ru/netology/Main.java
+ ru.netology.Main
